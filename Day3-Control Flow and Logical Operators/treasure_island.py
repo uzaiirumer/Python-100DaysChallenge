@@ -27,7 +27,7 @@ print("Your mission is to find the treasure.")
 
 #Write your code below this line 👇
 
-direction = input("Where do you want to go Left or Right? ")
+direction = input('You are at the Crossroad, Where do you want to go "Left" or "Right"? ')
 direction.lower()
 
 
